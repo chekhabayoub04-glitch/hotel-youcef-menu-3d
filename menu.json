@@ -1,37 +1,45 @@
 {
   "categories": [
     {
-      "id": "crepes",
-      "name": "Crêpes",
-      "nameAr": "كريب",
+      "id": "entrees-froides",
+      "name": "Entrées Froides",
+      "nameAr": "مقبلات باردة",
       "sizes": []
     },
     {
-      "id": "pizza",
-      "name": "Pizza",
-      "nameAr": "بيتزا",
-      "sizes": [
-        "L",
-        "XL",
-        "XXL"
-      ]
-    },
-    {
-      "id": "tacos",
-      "name": "Tacos",
-      "nameAr": "تاكوس",
+      "id": "entrees-chaudes",
+      "name": "Entrées Chaudes",
+      "nameAr": "مقبلات ساخنة",
       "sizes": []
     },
     {
-      "id": "sandwichs",
-      "name": "Sandwichs",
-      "nameAr": "سندويتشات",
+      "id": "tartines",
+      "name": "Tartines",
+      "nameAr": "تارتين",
       "sizes": []
     },
     {
-      "id": "gateaux-oriental",
-      "name": "Gâteaux Oriental",
-      "nameAr": "حلويات شرقية",
+      "id": "pates",
+      "name": "Pâtes",
+      "nameAr": "معكرونة",
+      "sizes": []
+    },
+    {
+      "id": "volailles",
+      "name": "Volailles",
+      "nameAr": "دواجن",
+      "sizes": []
+    },
+    {
+      "id": "viandes",
+      "name": "Viandes",
+      "nameAr": "لحوم",
+      "sizes": []
+    },
+    {
+      "id": "poissons",
+      "name": "Poissons",
+      "nameAr": "أسماك",
       "sizes": []
     },
     {
@@ -39,610 +47,488 @@
       "name": "Desserts",
       "nameAr": "تحليات",
       "sizes": []
-    },
-    {
-      "id": "jus",
-      "name": "Jus",
-      "nameAr": "عصائر",
-      "sizes": []
-    },
-    {
-      "id": "boissons",
-      "name": "Boissons",
-      "nameAr": "مشروبات",
-      "sizes": []
     }
   ],
   "dishes": [
     {
-      "id": "crepes-crepe-nutella",
-      "name": "Crêpe Nutella",
-      "nameAr": "كريب نوتيلا",
-      "categoryId": "crepes",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400
-      ],
-      "image": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "crepes-crepes-fruits",
-      "name": "Crêpes Fruits",
-      "nameAr": "كريب بالفواكه",
-      "categoryId": "crepes",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        900
-      ],
-      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "crepes-crepes-banane",
-      "name": "Crêpes Banane",
-      "nameAr": "كريب بالموز",
-      "categoryId": "crepes",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600
-      ],
-      "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "crepes-crepes-peche",
-      "name": "Crêpes Pêche",
-      "nameAr": "كريب بالخوخ",
-      "categoryId": "crepes",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600
-      ],
-      "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "crepes-crepes-ananas",
-      "name": "Crêpes Ananas",
-      "nameAr": "كريب بالأناناس",
-      "categoryId": "crepes",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600
-      ],
-      "image": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "crepes-crepes-fraises",
-      "name": "Crêpes Fraises",
-      "nameAr": "كريب بالفراولة",
-      "categoryId": "crepes",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600
-      ],
-      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-pizza-marguerite",
-      "name": "Pizza Marguerite",
-      "nameAr": "بيتزا مارغريتا",
-      "categoryId": "pizza",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400,
-        800,
-        1200
-      ],
-      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false,
-      "model3dUrl": "models/pizza-marguerite.glb",
-      "modelIosUrl": "models/pizza-marguerite.usdz"
-    },
-    {
-      "id": "pizza-cecilienne",
-      "name": "Cecilienne",
-      "nameAr": "سيسيليان",
-      "categoryId": "pizza",
-      "description": "Viande, fromage, sauce tomate",
-      "descriptionAr": "لحم، جبن، صلصة طماطم",
-      "prices": [
-        550,
-        1100,
-        1650
-      ],
-      "image": "https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-pizza-poulet",
-      "name": "Pizza Poulet",
-      "nameAr": "بيتزا بالدجاج",
-      "categoryId": "pizza",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        500,
-        1000,
-        1500
-      ],
-      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-pizza-thon",
-      "name": "Pizza Thon",
-      "nameAr": "بيتزا بالتونة",
-      "categoryId": "pizza",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600,
-        1200,
-        1800
-      ],
-      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-vegetarienne",
-      "name": "Végétarienne",
-      "nameAr": "نباتية",
-      "categoryId": "pizza",
-      "description": "Maïs, champignons, poivre",
-      "descriptionAr": "ذرة، فطر، فلفل",
-      "prices": [
-        500,
-        1000,
-        1500
-      ],
-      "image": "https://images.unsplash.com/photo-1576458088443-04a19bb13da6?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-pizza-fruits-de-mer",
-      "name": "Pizza Fruits de Mer",
-      "nameAr": "بيتزا ثمار البحر",
-      "categoryId": "pizza",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        1200,
-        2400,
-        3600
-      ],
-      "image": "/photos/pizza-fruits-de-mer.jpg",
-      "available": true,
-      "featured": true
-    },
-    {
-      "id": "pizza-pizza-boisee",
-      "name": "Pizza Boisée",
-      "nameAr": "بيتزا بوازي",
-      "categoryId": "pizza",
-      "description": "Sauce blanche, poulet, champignons",
-      "descriptionAr": "صلصة بيضاء، دجاج، فطر",
-      "prices": [
-        800,
-        1600,
-        2400
-      ],
-      "image": "https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-andalousia",
-      "name": "Andalousia",
-      "nameAr": "أندلوسيا",
-      "categoryId": "pizza",
-      "description": "Viande, champignons",
-      "descriptionAr": "لحم، فطر",
-      "prices": [
-        700,
-        1400,
-        2100
-      ],
-      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "pizza-pizza-royale",
-      "name": "Pizza Royale",
-      "nameAr": "بيتزا رويال",
-      "categoryId": "pizza",
-      "description": "Poulet, champignons, crevettes, fruits de mer, quatre fromages",
-      "descriptionAr": "دجاج، فطر، جمبري، ثمار البحر، أربعة أجبان",
-      "prices": [
-        1500,
-        3000,
-        4500
-      ],
-      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": true,
-      "model3dUrl": "models/pizza-royale.glb",
-      "modelIosUrl": "models/pizza-royale.usdz"
-    },
-    {
-      "id": "tacos-tacos-viande-hachee",
-      "name": "Tacos Viande Hachée",
-      "nameAr": "تاكوس لحم مفروم",
-      "categoryId": "tacos",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600
-      ],
-      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false,
-      "model3dUrl": "models/tacos.glb",
-      "modelIosUrl": "models/tacos.usdz"
-    },
-    {
-      "id": "tacos-tacos-poulet",
-      "name": "Tacos Poulet",
-      "nameAr": "تاكوس دجاج",
-      "categoryId": "tacos",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        550
-      ],
-      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "tacos-tacos-fajitas",
-      "name": "Tacos Fajitas",
-      "nameAr": "تاكوس فاهيتا",
-      "categoryId": "tacos",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        700
-      ],
-      "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": true
-    },
-    {
-      "id": "tacos-tacos-zinger",
-      "name": "Tacos Zinger",
-      "nameAr": "تاكوس زينغر",
-      "categoryId": "tacos",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        650
-      ],
-      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "sandwichs-croque-monsieur",
-      "name": "Croque-Monsieur",
-      "nameAr": "كروك مسيو",
-      "categoryId": "sandwichs",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400
-      ],
-      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "sandwichs-croque-madame",
-      "name": "Croque Madame",
-      "nameAr": "كروك مدام",
-      "categoryId": "sandwichs",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400
-      ],
-      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "sandwichs-club-sandwich",
-      "name": "Club Sandwich",
-      "nameAr": "كلوب ساندويتش",
-      "categoryId": "sandwichs",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400
-      ],
-      "image": "https://images.unsplash.com/photo-1567234669003-dce7a7a88821?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false,
-      "model3dUrl": "models/club-sandwich.glb",
-      "modelIosUrl": "models/club-sandwich.usdz"
-    },
-    {
-      "id": "sandwichs-chapata-poulet-viande",
-      "name": "Chapata poulet, viande",
-      "nameAr": "شاباتا دجاج، لحم",
-      "categoryId": "sandwichs",
+      "id": "entrees-froides-salade-caprese",
+      "name": "Salade Caprèse",
+      "nameAr": "سلطة كابريزي",
+      "categoryId": "entrees-froides",
       "description": "",
       "descriptionAr": "",
       "prices": [
         800
       ],
-      "image": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?w=800&q=75&auto=format&fit=crop",
+      "image": "models/sept/salade-caprese.webp",
       "available": true,
-      "featured": false
+      "featured": false,
+      "model3dUrl": "models/sept/salade-caprese.glb",
+      "modelIosUrl": "models/sept/salade-caprese.usdz"
     },
     {
-      "id": "gateaux-oriental-kaleb-louz",
-      "name": "Kaleb Louz",
-      "nameAr": "قلب اللوز",
-      "categoryId": "gateaux-oriental",
+      "id": "entrees-froides-salade-cesar",
+      "name": "Salade César",
+      "nameAr": "سلطة سيزر",
+      "categoryId": "entrees-froides",
       "description": "",
       "descriptionAr": "",
       "prices": [
-        500
+        1200
       ],
-      "image": "https://images.unsplash.com/photo-1598110750624-207050c4f28c?w=800&q=75&auto=format&fit=crop",
+      "image": "models/sept/salade-cesar.webp",
       "available": true,
-      "featured": true
+      "featured": false,
+      "model3dUrl": "models/sept/salade-cesar.glb",
+      "modelIosUrl": "models/sept/salade-cesar.usdz"
     },
     {
-      "id": "gateaux-oriental-ktaif",
-      "name": "Ktaif",
-      "nameAr": "قطايف",
-      "categoryId": "gateaux-oriental",
+      "id": "entrees-froides-burrata",
+      "name": "Burrata",
+      "nameAr": "بوراتا",
+      "categoryId": "entrees-froides",
       "description": "",
       "descriptionAr": "",
       "prices": [
-        350
+        1500
       ],
-      "image": "https://images.unsplash.com/photo-1598110750624-207050c4f28c?w=800&q=75&auto=format&fit=crop",
+      "image": "models/sept/burrata.webp",
       "available": true,
-      "featured": false
+      "featured": true,
+      "model3dUrl": "models/sept/burrata.glb",
+      "modelIosUrl": "models/sept/burrata.usdz"
     },
     {
-      "id": "gateaux-oriental-cigarre",
-      "name": "Cigarre",
-      "nameAr": "سيڨار",
-      "categoryId": "gateaux-oriental",
+      "id": "entrees-froides-salade-de-poulpe",
+      "name": "Salade de Poulpe",
+      "nameAr": "سلطة الأخطبوط",
+      "categoryId": "entrees-froides",
       "description": "",
       "descriptionAr": "",
       "prices": [
-        200
+        1600
       ],
-      "image": "https://images.unsplash.com/photo-1598110750624-207050c4f28c?w=800&q=75&auto=format&fit=crop",
+      "image": "models/sept/salade-de-poulpe.webp",
       "available": true,
-      "featured": false
+      "featured": false,
+      "model3dUrl": "models/sept/salade-de-poulpe.glb",
+      "modelIosUrl": "models/sept/salade-de-poulpe.usdz"
     },
     {
-      "id": "gateaux-oriental-samsa",
-      "name": "Samsa",
-      "nameAr": "صامصة",
-      "categoryId": "gateaux-oriental",
+      "id": "entrees-froides-carpaccio-de-boeuf",
+      "name": "Carpaccio de Bœuf",
+      "nameAr": "كارباتشيو لحم البقر",
+      "categoryId": "entrees-froides",
       "description": "",
       "descriptionAr": "",
       "prices": [
-        200
+        1800
       ],
-      "image": "https://images.unsplash.com/photo-1598110750624-207050c4f28c?w=800&q=75&auto=format&fit=crop",
+      "image": "models/sept/carpaccio-de-boeuf.webp",
       "available": true,
-      "featured": false
+      "featured": false,
+      "model3dUrl": "models/sept/carpaccio-de-boeuf.glb",
+      "modelIosUrl": "models/sept/carpaccio-de-boeuf.usdz"
     },
     {
-      "id": "desserts-fondant-au-chocolat",
-      "name": "Fondant au Chocolat",
+      "id": "entrees-chaudes-champignons-sautes-a-l-ail",
+      "name": "Champignons Sautés à l'Ail",
+      "nameAr": "فطر سوتيه بالثوم",
+      "categoryId": "entrees-chaudes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        800
+      ],
+      "image": "models/sept/champignons-sautes-a-l-ail.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/champignons-sautes-a-l-ail.glb",
+      "modelIosUrl": "models/sept/champignons-sautes-a-l-ail.usdz"
+    },
+    {
+      "id": "entrees-chaudes-poulpe-a-la-galicienne",
+      "name": "Poulpe à la Galicienne",
+      "nameAr": "أخطبوط على الطريقة الجاليقية",
+      "categoryId": "entrees-chaudes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1500
+      ],
+      "image": "models/sept/poulpe-a-la-galicienne.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/poulpe-a-la-galicienne.glb",
+      "modelIosUrl": "models/sept/poulpe-a-la-galicienne.usdz"
+    },
+    {
+      "id": "entrees-chaudes-crevettes-sautees-a-l-ail",
+      "name": "Crevettes Sautées à l'Ail",
+      "nameAr": "جمبري سوتيه بالثوم",
+      "categoryId": "entrees-chaudes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2000
+      ],
+      "image": "models/sept/crevettes-sautees-a-l-ail.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/crevettes-sautees-a-l-ail.glb",
+      "modelIosUrl": "models/sept/crevettes-sautees-a-l-ail.usdz"
+    },
+    {
+      "id": "entrees-chaudes-crevettes-tempura",
+      "name": "Crevettes Tempura",
+      "nameAr": "جمبري تمبورا",
+      "categoryId": "entrees-chaudes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2200
+      ],
+      "image": "models/sept/crevettes-tempura.webp",
+      "available": true,
+      "featured": true,
+      "model3dUrl": "models/sept/crevettes-tempura.glb",
+      "modelIosUrl": "models/sept/crevettes-tempura.usdz"
+    },
+    {
+      "id": "tartines-tartine-champignons",
+      "name": "Tartine Champignons",
+      "nameAr": "تارتين بالفطر",
+      "categoryId": "tartines",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        900
+      ],
+      "image": "models/sept/tartine-champignons.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/tartine-champignons.glb",
+      "modelIosUrl": "models/sept/tartine-champignons.usdz"
+    },
+    {
+      "id": "tartines-tartine-chevre-miel",
+      "name": "Tartine Chèvre Miel",
+      "nameAr": "تارتين جبن الماعز والعسل",
+      "categoryId": "tartines",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1200
+      ],
+      "image": "models/sept/tartine-chevre-miel.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/tartine-chevre-miel.glb",
+      "modelIosUrl": "models/sept/tartine-chevre-miel.usdz"
+    },
+    {
+      "id": "tartines-tartine-avocat-saumon",
+      "name": "Tartine Avocat-Saumon",
+      "nameAr": "تارتين أفوكادو وسلمون",
+      "categoryId": "tartines",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1800
+      ],
+      "image": "models/sept/tartine-avocat-saumon.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/tartine-avocat-saumon.glb",
+      "modelIosUrl": "models/sept/tartine-avocat-saumon.usdz"
+    },
+    {
+      "id": "pates-penne-a-l-arrabiata",
+      "name": "Penne à l'Arrabiata",
+      "nameAr": "بيني أرابياتا",
+      "categoryId": "pates",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        800
+      ],
+      "image": "models/sept/penne-a-l-arrabiata.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/penne-a-l-arrabiata.glb",
+      "modelIosUrl": "models/sept/penne-a-l-arrabiata.usdz"
+    },
+    {
+      "id": "pates-lasagne",
+      "name": "Lasagne",
+      "nameAr": "لازانيا",
+      "categoryId": "pates",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1400
+      ],
+      "image": "models/sept/lasagne.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/lasagne.glb",
+      "modelIosUrl": "models/sept/lasagne.usdz"
+    },
+    {
+      "id": "pates-tagliatelles-poulet-champignons",
+      "name": "Tagliatelles Poulet Champignons",
+      "nameAr": "تالياتيلي بالدجاج والفطر",
+      "categoryId": "pates",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1500
+      ],
+      "image": "models/sept/tagliatelles-poulet-champignons.webp",
+      "available": true,
+      "featured": true,
+      "model3dUrl": "models/sept/tagliatelles-poulet-champignons.glb",
+      "modelIosUrl": "models/sept/tagliatelles-poulet-champignons.usdz"
+    },
+    {
+      "id": "pates-penne-4-fromages",
+      "name": "Penne 4 Fromages",
+      "nameAr": "بيني بالأجبان الأربعة",
+      "categoryId": "pates",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1500
+      ],
+      "image": "models/sept/penne-4-fromages.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/penne-4-fromages.glb",
+      "modelIosUrl": "models/sept/penne-4-fromages.usdz"
+    },
+    {
+      "id": "pates-spaghetti-bolognaise",
+      "name": "Spaghetti Bolognaise",
+      "nameAr": "سباغيتي بولونيز",
+      "categoryId": "pates",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1600
+      ],
+      "image": "models/sept/spaghetti-bolognaise.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/spaghetti-bolognaise.glb",
+      "modelIosUrl": "models/sept/spaghetti-bolognaise.usdz"
+    },
+    {
+      "id": "volailles-gratin-de-poulet",
+      "name": "Gratin de Poulet",
+      "nameAr": "غراتان الدجاج",
+      "categoryId": "volailles",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1200
+      ],
+      "image": "models/sept/gratin-de-poulet.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/gratin-de-poulet.glb",
+      "modelIosUrl": "models/sept/gratin-de-poulet.usdz"
+    },
+    {
+      "id": "volailles-brochettes-de-poulet",
+      "name": "Brochettes de Poulet",
+      "nameAr": "أسياخ الدجاج",
+      "categoryId": "volailles",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        1800
+      ],
+      "image": "models/sept/brochettes-de-poulet.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/brochettes-de-poulet.glb",
+      "modelIosUrl": "models/sept/brochettes-de-poulet.usdz"
+    },
+    {
+      "id": "volailles-supreme-de-poulet-aux-champignons",
+      "name": "Suprême de Poulet aux Champignons",
+      "nameAr": "صدر دجاج بالفطر",
+      "categoryId": "volailles",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2000
+      ],
+      "image": "models/sept/supreme-de-poulet-aux-champignons.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/supreme-de-poulet-aux-champignons.glb",
+      "modelIosUrl": "models/sept/supreme-de-poulet-aux-champignons.usdz"
+    },
+    {
+      "id": "volailles-paupiettes-de-poulet",
+      "name": "Paupiettes de Poulet",
+      "nameAr": "لفائف الدجاج",
+      "categoryId": "volailles",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2000
+      ],
+      "image": "models/sept/paupiettes-de-poulet.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/paupiettes-de-poulet.glb",
+      "modelIosUrl": "models/sept/paupiettes-de-poulet.usdz"
+    },
+    {
+      "id": "viandes-brochettes-de-viande",
+      "name": "Brochettes de Viande",
+      "nameAr": "أسياخ اللحم",
+      "categoryId": "viandes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2400
+      ],
+      "image": "models/sept/brochettes-de-viande.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/brochettes-de-viande.glb",
+      "modelIosUrl": "models/sept/brochettes-de-viande.usdz"
+    },
+    {
+      "id": "viandes-entrecote",
+      "name": "Entrecôte",
+      "nameAr": "أنتركوت",
+      "categoryId": "viandes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        3000
+      ],
+      "image": "models/sept/entrecote.webp",
+      "available": true,
+      "featured": true,
+      "model3dUrl": "models/sept/entrecote.glb",
+      "modelIosUrl": "models/sept/entrecote.usdz"
+    },
+    {
+      "id": "viandes-filet",
+      "name": "Filet",
+      "nameAr": "فيليه",
+      "categoryId": "viandes",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        3400
+      ],
+      "image": "models/sept/filet.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/filet.glb",
+      "modelIosUrl": "models/sept/filet.usdz"
+    },
+    {
+      "id": "poissons-gratin-fruits-de-mer",
+      "name": "Gratin Fruits de Mer",
+      "nameAr": "غراتان ثمار البحر",
+      "categoryId": "poissons",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2200
+      ],
+      "image": "models/sept/gratin-fruits-de-mer.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/gratin-fruits-de-mer.glb",
+      "modelIosUrl": "models/sept/gratin-fruits-de-mer.usdz"
+    },
+    {
+      "id": "poissons-dorade",
+      "name": "Dorade",
+      "nameAr": "سمك الدوراد",
+      "categoryId": "poissons",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        2600
+      ],
+      "image": "models/sept/dorade.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/dorade.glb",
+      "modelIosUrl": "models/sept/dorade.usdz"
+    },
+    {
+      "id": "poissons-calamar",
+      "name": "Calamar",
+      "nameAr": "كالامار",
+      "categoryId": "poissons",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        3000
+      ],
+      "image": "models/sept/calamar.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/calamar.glb",
+      "modelIosUrl": "models/sept/calamar.usdz"
+    },
+    {
+      "id": "poissons-pave-de-saumon",
+      "name": "Pavé de Saumon",
+      "nameAr": "شريحة سلمون",
+      "categoryId": "poissons",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        3400
+      ],
+      "image": "models/sept/pave-de-saumon.webp",
+      "available": true,
+      "featured": true,
+      "model3dUrl": "models/sept/pave-de-saumon.glb",
+      "modelIosUrl": "models/sept/pave-de-saumon.usdz"
+    },
+    {
+      "id": "desserts-creme-brulee",
+      "name": "Crème Brûlée",
+      "nameAr": "كريم بروليه",
+      "categoryId": "desserts",
+      "description": "",
+      "descriptionAr": "",
+      "prices": [
+        800
+      ],
+      "image": "models/sept/creme-brulee.webp",
+      "available": true,
+      "featured": false,
+      "model3dUrl": "models/sept/creme-brulee.glb",
+      "modelIosUrl": "models/sept/creme-brulee.usdz"
+    },
+    {
+      "id": "desserts-fondants-au-chocolat",
+      "name": "Fondants au Chocolat",
       "nameAr": "فوندان بالشوكولاتة",
       "categoryId": "desserts",
       "description": "",
       "descriptionAr": "",
       "prices": [
-        500
+        900
       ],
-      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=75&auto=format&fit=crop",
+      "image": "models/sept/fondants-au-chocolat.webp",
       "available": true,
       "featured": true,
-      "model3dUrl": "models/fondant-chocolat.glb",
-      "modelIosUrl": "models/fondant-chocolat.usdz"
-    },
-    {
-      "id": "desserts-nougat-glace",
-      "name": "Nougat Glacé",
-      "nameAr": "نوغا مثلجة",
-      "categoryId": "desserts",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        650
-      ],
-      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "desserts-baba-aux-cremes",
-      "name": "Baba aux Crèmes",
-      "nameAr": "بابا بالكريمة",
-      "categoryId": "desserts",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        350
-      ],
-      "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "desserts-foure-noir",
-      "name": "Fouré Noir",
-      "nameAr": "فوري نوار",
-      "categoryId": "desserts",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400
-      ],
-      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "jus-jus-d-orange",
-      "name": "Jus d'orange",
-      "nameAr": "عصير البرتقال",
-      "categoryId": "jus",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        400
-      ],
-      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "jus-milkshake-banane",
-      "name": "Milkshake Banane",
-      "nameAr": "ميلك شيك بالموز",
-      "categoryId": "jus",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        450
-      ],
-      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "jus-milkshake-nutella",
-      "name": "Milkshake Nutella",
-      "nameAr": "ميلك شيك نوتيلا",
-      "categoryId": "jus",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        550
-      ],
-      "image": "/photos/milkshakes-piscine.jpg",
-      "available": true,
-      "featured": true,
-      "model3dUrl": "models/milkshake.glb",
-      "modelIosUrl": "models/milkshake.usdz"
-    },
-    {
-      "id": "jus-mojito-citron-au-menthe",
-      "name": "Mojito Citron au Menthe",
-      "nameAr": "موهيتو ليمون ونعناع",
-      "categoryId": "jus",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        450
-      ],
-      "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "jus-cocktail-de-fruits",
-      "name": "Cocktail de fruits",
-      "nameAr": "كوكتيل فواكه",
-      "categoryId": "jus",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        600
-      ],
-      "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "boissons-cafe",
-      "name": "Café",
-      "nameAr": "قهوة",
-      "categoryId": "boissons",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        150
-      ],
-      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "boissons-eau-pb",
-      "name": "Eau PB",
-      "nameAr": "ماء (قارورة صغيرة)",
-      "categoryId": "boissons",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        50
-      ],
-      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "boissons-eau-gb",
-      "name": "Eau GB",
-      "nameAr": "ماء (قارورة كبيرة)",
-      "categoryId": "boissons",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        100
-      ],
-      "image": "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
-    },
-    {
-      "id": "boissons-canettes",
-      "name": "Canettes",
-      "nameAr": "مشروبات غازية (علب)",
-      "categoryId": "boissons",
-      "description": "",
-      "descriptionAr": "",
-      "prices": [
-        100
-      ],
-      "image": "https://images.unsplash.com/photo-1581636625402-29b2a704ef13?w=800&q=75&auto=format&fit=crop",
-      "available": true,
-      "featured": false
+      "model3dUrl": "models/sept/fondants-au-chocolat.glb",
+      "modelIosUrl": "models/sept/fondants-au-chocolat.usdz"
     }
   ]
 }

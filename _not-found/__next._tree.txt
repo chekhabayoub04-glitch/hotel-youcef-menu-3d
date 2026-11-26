@@ -1,4 +1,4 @@
-:HL["/hotel-youcef-menu-3d/_next/static/chunks/2lihkd3qc9n2w.css","style"]
+:HL["/hotel-youcef-menu-3d/_next/static/chunks/0ulcyv1t_3iv0.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"ye_mVz9mor5uuTP5HmEu1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"OXtGeFQbEuzFbi3oynhGb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
