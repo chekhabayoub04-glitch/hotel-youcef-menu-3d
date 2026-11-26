@@ -1,11 +1,6 @@
-:HL["/hotel-youcef-menu-3d/_next/static/chunks/0ulcyv1t_3iv0.css","style"]
-:HL["/hotel-youcef-menu-3d/_next/static/media/25749dd09fc345e8-s.p.0ji0xjltb6ro5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/hotel-youcef-menu-3d/_next/static/media/33937fdcfd95f425-s.p.24y4-vc3jpn8m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/hotel-youcef-menu-3d/_next/static/chunks/1vly6_hlfty7e.css","style"]
 :HL["/hotel-youcef-menu-3d/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/hotel-youcef-menu-3d/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/hotel-youcef-menu-3d/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/hotel-youcef-menu-3d/_next/static/media/b4416af7d770c10a-s.p.1zf0xf1cyi65q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/hotel-youcef-menu-3d/_next/static/media/bff24dc14ce4541e-s.p.1mou8v493x-u7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/hotel-youcef-menu-3d/_next/static/media/f24afcaf82da7927-s.p.14yttwb5hb7vt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"OXtGeFQbEuzFbi3oynhGb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pLlq8Fy7Sv85QDtavfku_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
