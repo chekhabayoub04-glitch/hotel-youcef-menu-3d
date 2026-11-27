@@ -4,4 +4,4 @@
 :HL["/hotel-youcef-menu-3d/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
-0:{"b":"p3hN3jg6bqhMXDxGnCQTD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9AJ1cUxG3V_zBPD9-808g","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

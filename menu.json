@@ -64,7 +64,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/salade-caprese.glb",
-      "modelIosUrl": "models/sept/salade-caprese.usdz"
+      "modelIosUrl": "models/sept/salade-caprese.usdz",
+      "modelArUrl": "models/sept/salade-caprese.ar.glb"
     },
     {
       "id": "entrees-froides-salade-cesar",
@@ -80,7 +81,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/salade-cesar.glb",
-      "modelIosUrl": "models/sept/salade-cesar.usdz"
+      "modelIosUrl": "models/sept/salade-cesar.usdz",
+      "modelArUrl": "models/sept/salade-cesar.ar.glb"
     },
     {
       "id": "entrees-froides-burrata",
@@ -96,7 +98,8 @@
       "available": true,
       "featured": true,
       "model3dUrl": "models/sept/burrata.glb",
-      "modelIosUrl": "models/sept/burrata.usdz"
+      "modelIosUrl": "models/sept/burrata.usdz",
+      "modelArUrl": "models/sept/burrata.ar.glb"
     },
     {
       "id": "entrees-froides-salade-de-poulpe",
@@ -112,7 +115,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/salade-de-poulpe.glb",
-      "modelIosUrl": "models/sept/salade-de-poulpe.usdz"
+      "modelIosUrl": "models/sept/salade-de-poulpe.usdz",
+      "modelArUrl": "models/sept/salade-de-poulpe.ar.glb"
     },
     {
       "id": "entrees-froides-carpaccio-de-boeuf",
@@ -128,7 +132,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/carpaccio-de-boeuf.glb",
-      "modelIosUrl": "models/sept/carpaccio-de-boeuf.usdz"
+      "modelIosUrl": "models/sept/carpaccio-de-boeuf.usdz",
+      "modelArUrl": "models/sept/carpaccio-de-boeuf.ar.glb"
     },
     {
       "id": "entrees-chaudes-champignons-sautes-a-l-ail",
@@ -144,7 +149,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/champignons-sautes-a-l-ail.glb",
-      "modelIosUrl": "models/sept/champignons-sautes-a-l-ail.usdz"
+      "modelIosUrl": "models/sept/champignons-sautes-a-l-ail.usdz",
+      "modelArUrl": "models/sept/champignons-sautes-a-l-ail.ar.glb"
     },
     {
       "id": "entrees-chaudes-poulpe-a-la-galicienne",
@@ -160,7 +166,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/poulpe-a-la-galicienne.glb",
-      "modelIosUrl": "models/sept/poulpe-a-la-galicienne.usdz"
+      "modelIosUrl": "models/sept/poulpe-a-la-galicienne.usdz",
+      "modelArUrl": "models/sept/poulpe-a-la-galicienne.ar.glb"
     },
     {
       "id": "entrees-chaudes-crevettes-sautees-a-l-ail",
@@ -176,7 +183,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/crevettes-sautees-a-l-ail.glb",
-      "modelIosUrl": "models/sept/crevettes-sautees-a-l-ail.usdz"
+      "modelIosUrl": "models/sept/crevettes-sautees-a-l-ail.usdz",
+      "modelArUrl": "models/sept/crevettes-sautees-a-l-ail.ar.glb"
     },
     {
       "id": "entrees-chaudes-crevettes-tempura",
@@ -192,7 +200,8 @@
       "available": true,
       "featured": true,
       "model3dUrl": "models/sept/crevettes-tempura.glb",
-      "modelIosUrl": "models/sept/crevettes-tempura.usdz"
+      "modelIosUrl": "models/sept/crevettes-tempura.usdz",
+      "modelArUrl": "models/sept/crevettes-tempura.ar.glb"
     },
     {
       "id": "tartines-tartine-champignons",
@@ -208,7 +217,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/tartine-champignons.glb",
-      "modelIosUrl": "models/sept/tartine-champignons.usdz"
+      "modelIosUrl": "models/sept/tartine-champignons.usdz",
+      "modelArUrl": "models/sept/tartine-champignons.ar.glb"
     },
     {
       "id": "tartines-tartine-chevre-miel",
@@ -224,7 +234,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/tartine-chevre-miel.glb",
-      "modelIosUrl": "models/sept/tartine-chevre-miel.usdz"
+      "modelIosUrl": "models/sept/tartine-chevre-miel.usdz",
+      "modelArUrl": "models/sept/tartine-chevre-miel.ar.glb"
     },
     {
       "id": "tartines-tartine-avocat-saumon",
@@ -240,7 +251,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/tartine-avocat-saumon.glb",
-      "modelIosUrl": "models/sept/tartine-avocat-saumon.usdz"
+      "modelIosUrl": "models/sept/tartine-avocat-saumon.usdz",
+      "modelArUrl": "models/sept/tartine-avocat-saumon.ar.glb"
     },
     {
       "id": "pates-penne-a-l-arrabiata",
@@ -256,7 +268,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/penne-a-l-arrabiata.glb",
-      "modelIosUrl": "models/sept/penne-a-l-arrabiata.usdz"
+      "modelIosUrl": "models/sept/penne-a-l-arrabiata.usdz",
+      "modelArUrl": "models/sept/penne-a-l-arrabiata.ar.glb"
     },
     {
       "id": "pates-lasagne",
@@ -272,7 +285,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/lasagne.glb",
-      "modelIosUrl": "models/sept/lasagne.usdz"
+      "modelIosUrl": "models/sept/lasagne.usdz",
+      "modelArUrl": "models/sept/lasagne.ar.glb"
     },
     {
       "id": "pates-tagliatelles-poulet-champignons",
@@ -288,7 +302,8 @@
       "available": true,
       "featured": true,
       "model3dUrl": "models/sept/tagliatelles-poulet-champignons.glb",
-      "modelIosUrl": "models/sept/tagliatelles-poulet-champignons.usdz"
+      "modelIosUrl": "models/sept/tagliatelles-poulet-champignons.usdz",
+      "modelArUrl": "models/sept/tagliatelles-poulet-champignons.ar.glb"
     },
     {
       "id": "pates-penne-4-fromages",
@@ -304,7 +319,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/penne-4-fromages.glb",
-      "modelIosUrl": "models/sept/penne-4-fromages.usdz"
+      "modelIosUrl": "models/sept/penne-4-fromages.usdz",
+      "modelArUrl": "models/sept/penne-4-fromages.ar.glb"
     },
     {
       "id": "pates-spaghetti-bolognaise",
@@ -320,7 +336,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/spaghetti-bolognaise.glb",
-      "modelIosUrl": "models/sept/spaghetti-bolognaise.usdz"
+      "modelIosUrl": "models/sept/spaghetti-bolognaise.usdz",
+      "modelArUrl": "models/sept/spaghetti-bolognaise.ar.glb"
     },
     {
       "id": "volailles-gratin-de-poulet",
@@ -336,7 +353,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/gratin-de-poulet.glb",
-      "modelIosUrl": "models/sept/gratin-de-poulet.usdz"
+      "modelIosUrl": "models/sept/gratin-de-poulet.usdz",
+      "modelArUrl": "models/sept/gratin-de-poulet.ar.glb"
     },
     {
       "id": "volailles-brochettes-de-poulet",
@@ -352,7 +370,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/brochettes-de-poulet.glb",
-      "modelIosUrl": "models/sept/brochettes-de-poulet.usdz"
+      "modelIosUrl": "models/sept/brochettes-de-poulet.usdz",
+      "modelArUrl": "models/sept/brochettes-de-poulet.ar.glb"
     },
     {
       "id": "volailles-supreme-de-poulet-aux-champignons",
@@ -368,7 +387,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/supreme-de-poulet-aux-champignons.glb",
-      "modelIosUrl": "models/sept/supreme-de-poulet-aux-champignons.usdz"
+      "modelIosUrl": "models/sept/supreme-de-poulet-aux-champignons.usdz",
+      "modelArUrl": "models/sept/supreme-de-poulet-aux-champignons.ar.glb"
     },
     {
       "id": "volailles-paupiettes-de-poulet",
@@ -384,7 +404,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/paupiettes-de-poulet.glb",
-      "modelIosUrl": "models/sept/paupiettes-de-poulet.usdz"
+      "modelIosUrl": "models/sept/paupiettes-de-poulet.usdz",
+      "modelArUrl": "models/sept/paupiettes-de-poulet.ar.glb"
     },
     {
       "id": "viandes-brochettes-de-viande",
@@ -400,7 +421,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/brochettes-de-viande.glb",
-      "modelIosUrl": "models/sept/brochettes-de-viande.usdz"
+      "modelIosUrl": "models/sept/brochettes-de-viande.usdz",
+      "modelArUrl": "models/sept/brochettes-de-viande.ar.glb"
     },
     {
       "id": "viandes-entrecote",
@@ -416,7 +438,8 @@
       "available": true,
       "featured": true,
       "model3dUrl": "models/sept/entrecote.glb",
-      "modelIosUrl": "models/sept/entrecote.usdz"
+      "modelIosUrl": "models/sept/entrecote.usdz",
+      "modelArUrl": "models/sept/entrecote.ar.glb"
     },
     {
       "id": "viandes-filet",
@@ -432,7 +455,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/filet.glb",
-      "modelIosUrl": "models/sept/filet.usdz"
+      "modelIosUrl": "models/sept/filet.usdz",
+      "modelArUrl": "models/sept/filet.ar.glb"
     },
     {
       "id": "poissons-gratin-fruits-de-mer",
@@ -448,7 +472,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/gratin-fruits-de-mer.glb",
-      "modelIosUrl": "models/sept/gratin-fruits-de-mer.usdz"
+      "modelIosUrl": "models/sept/gratin-fruits-de-mer.usdz",
+      "modelArUrl": "models/sept/gratin-fruits-de-mer.ar.glb"
     },
     {
       "id": "poissons-dorade",
@@ -464,7 +489,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/dorade.glb",
-      "modelIosUrl": "models/sept/dorade.usdz"
+      "modelIosUrl": "models/sept/dorade.usdz",
+      "modelArUrl": "models/sept/dorade.ar.glb"
     },
     {
       "id": "poissons-calamar",
@@ -480,7 +506,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/calamar.glb",
-      "modelIosUrl": "models/sept/calamar.usdz"
+      "modelIosUrl": "models/sept/calamar.usdz",
+      "modelArUrl": "models/sept/calamar.ar.glb"
     },
     {
       "id": "poissons-pave-de-saumon",
@@ -496,7 +523,8 @@
       "available": true,
       "featured": true,
       "model3dUrl": "models/sept/pave-de-saumon.glb",
-      "modelIosUrl": "models/sept/pave-de-saumon.usdz"
+      "modelIosUrl": "models/sept/pave-de-saumon.usdz",
+      "modelArUrl": "models/sept/pave-de-saumon.ar.glb"
     },
     {
       "id": "desserts-creme-brulee",
@@ -512,7 +540,8 @@
       "available": true,
       "featured": false,
       "model3dUrl": "models/sept/creme-brulee.glb",
-      "modelIosUrl": "models/sept/creme-brulee.usdz"
+      "modelIosUrl": "models/sept/creme-brulee.usdz",
+      "modelArUrl": "models/sept/creme-brulee.ar.glb"
     },
     {
       "id": "desserts-fondants-au-chocolat",
@@ -528,7 +557,8 @@
       "available": true,
       "featured": true,
       "model3dUrl": "models/sept/fondants-au-chocolat.glb",
-      "modelIosUrl": "models/sept/fondants-au-chocolat.usdz"
+      "modelIosUrl": "models/sept/fondants-au-chocolat.usdz",
+      "modelArUrl": "models/sept/fondants-au-chocolat.ar.glb"
     }
   ]
 }
